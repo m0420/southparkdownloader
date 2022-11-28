@@ -76,10 +76,10 @@ Replaces the local index with an up-to-date version from this repository and rel
 <table>
 <tr>
     <td align="center">
-        <a href="https://github.com/bumbummen99">
-            <img src="https://avatars.githubusercontent.com/u/4533331?v=4" width="100;" alt="bumbummen99"/>
+        <a href="https://github.com/m0420">
+            <img src="https://avatars.githubusercontent.com/u/35610838?v=4" width="100;" alt="m0420"/>
             <br />
-            <sub><b>Patrick</b></sub>
+            <sub><b>M0420</b></sub>
         </a>
     </td></tr>
 </table>
@@ -116,6 +116,13 @@ Replaces the local index with an up-to-date version from this repository and rel
             <img src="https://avatars.githubusercontent.com/u/24369300?v=4" width="100;" alt="TH42"/>
             <br />
             <sub><b>TH42</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/m0420">
+            <img src="https://avatars.githubusercontent.com/u/35610838?v=4" width="100;" alt="m0420"/>
+            <br />
+            <sub><b>M0420</b></sub>
         </a>
     </td></tr>
 </table>
